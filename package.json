@@ -8,8 +8,8 @@
   "repository": "https://github.com/OneSignal/onesignal-ngx.git",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^11.0.9",
-    "@angular/core": "^11.0.9"
+    "@angular/common": ">=11.0.9",
+    "@angular/core": ">=11.0.9"
   },
   "dependencies": {
     "tslib": "^2.0.0"
